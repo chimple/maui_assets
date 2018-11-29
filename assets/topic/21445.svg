@@ -5,7 +5,7 @@
 <g id="layer1" transform="translate(0,-552.36188)">
 	<g id="g4830" transform="matrix(0.99685849,-0.07920318,0.07920318,0.99685849,-63.597063,33.324429)">
 		
-			<rect id="rect4135" x="128.5" y="599.6" transform="matrix(-1 2.677755e-06 -2.677755e-06 -1 525.4716 1585.2382)" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="268.5" height="386"/>
+			<rect id="rect4135" x="128.5" y="599.6" transform="matrix(-1 5.355510e-06 -5.355510e-06 -1 525.4437 1585.2771)" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="268.5" height="386"/>
 		<g id="g4752">
 			<path id="path4137" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,609.8H138"/>
 			<path id="path4137-7" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,631.1H138"/>
@@ -24,12 +24,12 @@
 			<path id="path4137-7-15" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,907.9H138"/>
 			<path id="path4137-7-48" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,929.2H138"/>
 			<path id="path4137-7-30" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,950.5H138"/>
-			<path id="path4137-7-44" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,971.8H138"/>
+			<path id="path4137-7-44" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M117.9,971.8l20.1,0"/>
 		</g>
 		<g id="g4529">
 			<path id="path4314-6" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,630.8l214.1,0"/>
 			<path id="path4314-1" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,652.4l214.1,0"/>
-			<path id="path4314-5" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,674l214.1,0"/>
+			<path id="path4314-5" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,674h214.1"/>
 			<path id="path4314-62" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,695.5h214.1"/>
 			<path id="path4314-7" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,717.1h214.1"/>
 			<path id="path4314-57" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M155.7,738.7l214.1,0"/>
